@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 -->
 
 ![Codewars](https://github.r2v.ch/codewars?user=renmans&hide_clan=true&theme=purple_dark)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/renmans)](https://leetcode.com/renmans)
