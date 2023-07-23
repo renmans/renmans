@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64bb1f238a29ad56faa1bc82?variant=dark)](https://roadmap.sh)
-
+![Codewars](https://github.r2v.ch/codewars?user=chupapizi&name=true&hide_clan=true&theme=purple_dark)
