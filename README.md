@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Codewars](https://github.r2v.ch/codewars?user=chupapizi&name=true&hide_clan=true&theme=purple_dark)
+![Codewars](https://github.r2v.ch/codewars?user=renmans&hide_clan=true&theme=purple_dark)
